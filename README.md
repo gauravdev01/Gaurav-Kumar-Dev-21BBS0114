@@ -44,3 +44,9 @@ Install Express.js, which will be used to create the server:
 ```bash
 npm install express --save
 ```
+Now run your server with the command given below.
+```bash
+node app.js
+ ```
+Now head over to localhost:5000 to see your pieces in action.
+
