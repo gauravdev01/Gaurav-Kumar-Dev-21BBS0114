@@ -60,4 +60,9 @@ Now head over to the terminal install socket.io
 ```bash
 npm install socket.io –save
 ```
+When we run our server we can see the message from the client on the terminal.
+
+Now run your server open it in two different tabs and see the real-time interaction between the client and the server.
+
+After each move, we are sending the position of the board using the fen notation.
 
