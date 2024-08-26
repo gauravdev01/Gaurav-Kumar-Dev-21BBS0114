@@ -50,3 +50,14 @@ node app.js
  ```
 Now head over to localhost:5000 to see your pieces in action.
 
+![image](https://github.com/user-attachments/assets/e690ed3f-3149-4a47-9d7b-bee14d9a4e9c)
+
+This is just a simple chess board but we need to make it real-time.
+
+For making our web app real-time we need to communicate between the server and client. For this, we will use socket.io.
+
+Now head over to the terminal install socket.io
+```bash
+npm install socket.io –save
+```
+
